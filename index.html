@@ -21,6 +21,7 @@
         p a, li a { color: #54f; font-weight: bold; text-decoration: none; }
         p a:hover, li a:hover, h2 a:hover { color: #222; }
         #photo { float: right; margin: 0 36px 18px 18px; }
+        #twitter { margin: 18px 36px 0 36px; }
         </style>
     </head>
 <body>
@@ -36,6 +37,37 @@
         <a href="http://www.linkedin.com/in/maurachace" rel="me">LinkedIn</a> and
         <a href="http://delicious.com/minarets" rel="me">Delicious</a>
         as well as at <a href="http://www.paragiraffe.com/" rel="me">my blog</a> and my <a href="http://25wishes.com/" rel="me">Christmas blog</a>.
-        </div>
+       <div id="twitter"><script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 3,
+  interval: 6000,
+  width: 'auto',
+  height: 300,
+  theme: {
+    shell: {
+      background: '#eeeeee',
+      color: '#444444'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#444444',
+      links: '#5444ff'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('minarets').start();
+</script></div>
+         </div>
 </body>
 </html>
