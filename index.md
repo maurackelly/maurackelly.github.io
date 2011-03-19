@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<img src="/media/img/about/maura_chace.png" width="180" height="180" alt="After haircut" id="photo">
-
 # Maura Chace
 
 &#8230;is a web developer living in Atlanta, Georgia.
