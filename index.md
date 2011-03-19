@@ -4,15 +4,21 @@ layout: default
 
 # Maura Chace
 
+<img src="/media/img/about/maura_chace.png" alt="Maura Chace" id="photo" />
+
 &#8230;is a web developer living in Atlanta, Georgia.
 
-I love <a href="http://www.djangoproject.com/">Django</a> and Python, and I've also been known to work with HTML, CSS, JavaScript, PHP, MySQL (and other SQLs) and JSON. I am a fan of clean, usable design, web standards and accessibility, best practices, and Macs. I graduated from <a href="http://www.utk.edu/">The University of Tennessee, Knoxville</a> with a degree in computer science.
+I love [Django][] and Python, JSON, clean, usable design, best practices and Macs. I graduated from [The University of Tennessee, Knoxville][UT], with a degree in computer science.
 
-If you are also passionate about web development, especially using Python and Django, please email me at <a href="mailto:maurachace@gmail.com">maurachace@gmail.com</a>.
+Email me at <a href="mailto:&#109;&#97;&#117;&#114;&#97;&#46;&#99;&#104;&#97;&#99;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#109;&#97;&#117;&#114;&#97;&#46;&#99;&#104;&#97;&#99;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>.
 
-<!--<p>You can also find me at the following places: <a href="http://twitter.com/minarets" rel="me">Twitter</a>,
-<a href="http://www.flickr.com/photos/minarets/" rel="me">Flickr</a>,
-<a href="http://www.facebook.com/maurachace" rel="me">Facebook</a>,
-<a href="http://www.linkedin.com/in/maurachace" rel="me">LinkedIn</a> and
-<a href="http://delicious.com/minarets" rel="me">Delicious</a>
-as well as at <a href="http://www.paragiraffe.com/" rel="me">my blog</a> and my <a href="http://25wishes.com/" rel="me">Christmas blog</a>.-->
+You can also find me at the following places: [Twitter][], [Flickr][], [Facebook], [LinkedIn][], [Pinboard][] and, when in season, my [Christmas blog][Xmas].
+
+[Django]: http://www.djangoproject.com/
+[UT]: http://www.utk.edu/
+[Twitter]: http://twitter.com/minarets
+[Flickr]: http://www.flickr.com/photos/minarets/
+[Facebook]: http://www.facebook.com/maurachace
+[LinkedIn]: http://www.linkedin.com/in/maurachace
+[Pinboard]: https://pinboard.in/u:minarets
+[Xmas]: http://25wishes.com/
