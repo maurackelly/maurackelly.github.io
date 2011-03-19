@@ -1,4 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} !^www\.maurachace\.com$
-RewriteRule (.*) http://www.maurachace.com/$1 [R=301,L]
-Options -Indexes
