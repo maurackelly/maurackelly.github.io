@@ -4,7 +4,7 @@ layout: default
 
 # Maura Chace
 
-<img src="/media/img/about/maura_chace.png" alt="Maura Chace" id="photo" />
+<img src="/media/img/about/maura_chace.png" class="right">
 
 &#8230;is a web developer living in Atlanta, Georgia.
 
