@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Maura Chace{% if page.title %} | {{ page.title }}{% endif %}</title>
+    <title>Maura Chace</title>
     <link rel="openid2.provider" href="https://www.google.com/accounts/o8/ud?source=profiles" />
     <link rel="openid2.local_id" href="http://www.google.com/profiles/minarets" />
     <link rel="stylesheet" type="text/css" media="screen"  href="/media/css/screen.css" />
@@ -15,8 +15,10 @@
     <link href="http://fonts.googleapis.com/css?family=Dancing+Script|Open+Sans" rel="stylesheet" type="text/css">
     </head>
 <body>
-    <div class="container"><div class="span-14 prepend-5">
+    <div class="container"><div class="span-14 prepend-5 main">
         {{ content }}
+    <hr />
+    <p class="small">&copy; {{ site.time|date:"%Y" }} <a href="/">{{ site.title }}</a> &bull; <a href="/atom.xml">feed</a></p>
     </div></div>
 </body>
 </html>

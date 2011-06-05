@@ -1,1 +1,4 @@
-permalink: /:year/:month/:day/:title
+title: maurachace.com
+url: http://maurachace.com
+author: Maura Chace
+permalink: /:year/:month/:day/:title/
