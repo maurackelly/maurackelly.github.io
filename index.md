@@ -14,6 +14,12 @@ Email me at <a href="mailto:&#109;&#97;&#117;&#114;&#97;&#46;&#99;&#104;&#97;&#9
 
 You can also find me at the following places: [Twitter][], [Flickr][], [Facebook], [LinkedIn][], [Pinboard][] and, when in season, my [Christmas blog][Xmas].
 
+## Recent posts
+
+{% for post in site.posts limit:5 %}
+* [{{ post.title }}]({{ post.url }}) &bull; {{ post.date|date:"%m-%d-%Y" }}
+{% endfor %}
+
 [Django]: http://www.djangoproject.com/
 [UT]: http://www.utk.edu/
 [Twitter]: http://twitter.com/minarets
