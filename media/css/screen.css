@@ -26,7 +26,7 @@ a img {border:none;}
 
 /* typography.css */
 html {font-size:100.01%;}
-body {font-size:100%;color:#222;background:#fff;font-family:'Helvetica Neue',Helvetica, Arial, sans-serif;padding:3em;}
+body {font-size:100%;color:#222;background:#fff;font-family:'Open Sans', Helvetica, Arial, sans-serif;padding:3em;}
 h1, h2, h3, h4, h5, h6 {font-weight:normal;color:#111;font-family:'Dancing Script', serif;}
 h1 {font-size:3em;line-height:1;margin-bottom:0.5em;}
 h2 {font-size:2em;margin-bottom:0.75em;}
@@ -38,7 +38,7 @@ h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {margin:0;}
 p {margin:0 0 1.5em;}
 .left {float:left !important;}
 p .left {margin:1.5em 1.5em 1.5em 0;padding:0;}
-.right {float:right !important;}
+.right {float:right !important; margin-left:0.5em;}
 p .right {margin:1.5em 0 1.5em 1.5em;padding:0;}
 a:focus, a:hover {color:#09f;}
 a {color:#06c;text-decoration:underline;}
