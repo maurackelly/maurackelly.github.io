@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Maura Chace
 ---
 
 # Maura Chace
