@@ -3,11 +3,11 @@ layout: index
 title: Maura Chace
 ---
 
-# Maura Chace
+# Hi, I’m Maura.
 
 <img src="/media/img/about/maura_chace.png" class="right">
 
-&#8230;is a web developer living in Atlanta, Georgia.
+I live in in Atlanta, Georgia, where I manage and work on an exceptional team of developers.
 
 I love [Django][] and Python, JSON, clean, usable design, best practices and Macs. I graduated from [The University of Tennessee, Knoxville][UT], with a degree in computer science.
 
