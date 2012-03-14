@@ -3,11 +3,3 @@ layout: default
 ---
 
 {{ content }}
-
-<h2>Recent posts</h2>
-
-<ul>
-{% for post in site.posts limit:5 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> &bull; {{ post.date|date:"%m-%d-%Y" }}</li>
-{% endfor %}
-</ul>
