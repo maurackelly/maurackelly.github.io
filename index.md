@@ -9,14 +9,15 @@ title: Maura Chace
 
 I live in in Atlanta, Georgia, where I manage and work on an exceptional team of developers.
 
-I love [Django][] and Python, JSON, clean, usable design, best practices and Macs. I graduated from [The University of Tennessee, Knoxville][UT], with a degree in computer science.
+I love [Django][] and Python, JSON, clean, usable design, best practices and Macs. I graduated from [The University of Tennessee, Knoxville][UT], with a degree in computer science. I enjoy running and cooking.
 
 Email me at <a href="mailto:&#109;&#97;&#117;&#114;&#97;&#46;&#99;&#104;&#97;&#99;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#109;&#97;&#117;&#114;&#97;&#46;&#99;&#104;&#97;&#99;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>.
 
-You can also find me at the following places: [Twitter][], [Flickr][], [Facebook], [LinkedIn][], [Pinboard][] and, when in season, my [Christmas blog][Xmas].
+You can also find me at the following places: [Tumblr][], [Twitter][], [Flickr][], [Facebook], [LinkedIn][], [Pinboard][] and, when in season, my [Christmas blog][Xmas].
 
 [Django]: http://www.djangoproject.com/
 [UT]: http://www.utk.edu/
+[Tumblr]: http://maurachace.tumblr.com/
 [Twitter]: http://twitter.com/minarets
 [Flickr]: http://www.flickr.com/photos/minarets/
 [Facebook]: http://www.facebook.com/maurachace
