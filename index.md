@@ -7,20 +7,15 @@ title: Maura Chace
 
 <img src="/media/img/about/maura_chace.png" class="right">
 
-I live in in Atlanta, Georgia, where I manage and work on an exceptional team of developers.
+I live in in Atlanta, Georgia. Currently I manage the innovation lab for Cox Media Group, a program for self-directed projects similar to Google 20% time. In the past I've been a development manager and a developer.
 
 I love [Django][] and Python, JSON, clean, usable design, best practices and Macs. I graduated from [The University of Tennessee, Knoxville][UT], with a degree in computer science. I enjoy running and cooking.
 
-Email me at <a href="mailto:&#109;&#97;&#117;&#114;&#97;&#46;&#99;&#104;&#97;&#99;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#109;&#97;&#117;&#114;&#97;&#46;&#99;&#104;&#97;&#99;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>.
-
-You can also find me at the following places: [Tumblr][], [Twitter][], [Flickr][], [Facebook], [LinkedIn][], [Pinboard][] and, when in season, my [Christmas blog][Xmas].
+You can also find me at the following places: [Twitter][], [Instagram][], [Facebook][], [LinkedIn][].
 
 [Django]: http://www.djangoproject.com/
 [UT]: http://www.utk.edu/
-[Tumblr]: http://maurachace.tumblr.com/
 [Twitter]: http://twitter.com/minarets
-[Flickr]: http://www.flickr.com/photos/minarets/
+[Instagram]: http://instagram.com/maurachace
 [Facebook]: http://www.facebook.com/maurachace
 [LinkedIn]: http://www.linkedin.com/in/maurachace
-[Pinboard]: https://pinboard.in/u:minarets
-[Xmas]: http://25wishes.com/
