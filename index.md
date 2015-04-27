@@ -1,13 +1,13 @@
 ---
 layout: index
-title: Maura Chace
+title: Maura Chace Kelly
 ---
-
-# Hi, I’m Maura.
 
 <img src="/media/img/about/maura_chace.png" class="right">
 
-I live in in Atlanta, Georgia. Currently I manage the innovation lab for Cox Media Group, a program for self-directed projects similar to Google 20% time. In the past I've been a development manager and a developer.
+# Maura Chace Kelly
+
+I live in in Atlanta, Georgia. I'm a developer and manager. In my previous role, I managed the innovation lab for Cox Media Group, a program for self-directed projects similar to Google 20% time.
 
 I love [Django][] and Python, JSON, clean, usable design, best practices and Macs. I graduated from [The University of Tennessee, Knoxville][UT], with a degree in computer science. I enjoy running and cooking.
 
