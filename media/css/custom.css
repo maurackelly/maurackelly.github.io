@@ -1,8 +1,11 @@
-body {font-size:100%;font-family:'Open Sans', Helvetica, Arial, sans-serif;padding:3em;}
-h1, h2, h3, h4, h5, h6 {font-family:'Dancing Script', serif;}
-.right {margin-left:0.5em;}
-
-body {border-top:1em solid #f90;background:#fff;}
-body, h1, h2, h3, h4, h5, h6 {color:#333;}
-a {color:#26c;text-decoration:none;}
-a:hover {color:#f36;}
+body { border-top: 10px solid #f90; font-size: 16px; line-height: 1.6; }
+a { color:#26c; }
+a:hover { color:#f36; }
+img { border-radius: 50%; display: inline; float: left; margin: 25px; }
+.container { padding: 25px 0; }
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 600px;
+  }
+}
